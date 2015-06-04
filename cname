@@ -1,1 +1,1 @@
-www.tabeblog.net
+$ echo www.tabeblog.net > CNAME
